@@ -1,0 +1,7 @@
+Install:
+1. Extract the offlineins folder to "C:\Program Files"
+2. Run install.reg
+
+Uninstall:
+1. Delete the offlineins folder from "C:\Program Files"
+2. Run uninstall.reg
